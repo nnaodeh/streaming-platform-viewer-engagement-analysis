@@ -33,10 +33,6 @@ StreamWave Entertainment needed to understand which content genres perform best 
 4. Examined genre impact on subscriber retention.
 5. Built an interactive dashboard for reporting and decision-making.
 
-## Dashboard Preview
-
-![Dashboard Preview](dashboard-preview.png)
-
 ## Key Insights
 
 * Identified the most engaging content genres.
